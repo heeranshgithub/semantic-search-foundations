@@ -117,13 +117,19 @@ cd phase1_semantic_search
 Create venv:
 
 ```bash
-python -m venv venv
+python -m venv .venv
+```
+
+macOS / Linux:
+
+```bash
+source .venv/bin/activate
 ```
 
 Windows:
 
 ```bash
-venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 Install:
