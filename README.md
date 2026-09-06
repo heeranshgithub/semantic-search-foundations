@@ -21,3 +21,5 @@ even though they share no words.
 - `embed.py` - loads the model, turns text into vectors
 - `search.py` - cosine similarity, returns top 3
 - `app.py` - the input loop
+
+`GOAL.md` is the walkthrough this was built from, plus what comes next.
